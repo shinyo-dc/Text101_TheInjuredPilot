@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Text101",
+"dataUrl": "The_Injured_Pilot.data.unityweb",
+"asmCodeUrl": "The_Injured_Pilot.asm.code.unityweb",
+"asmMemoryUrl": "The_Injured_Pilot.asm.memory.unityweb",
+"asmFrameworkUrl": "The_Injured_Pilot.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
